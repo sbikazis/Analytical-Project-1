@@ -72,7 +72,6 @@ Day (weekday name)
 Month (month name)
 
 
-
 5. Grouping & Insights Extraction
 
 Grouped revenue by:
